@@ -1,0 +1,10 @@
+venv
+*.log
+*.pyc
+staticfiles
+media/
+with/static/
+.vscode/
+.env
+e2e*
+db.sqlite3
